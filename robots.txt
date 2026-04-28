@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://iyitasin.com/sitemap.xml
+
+# Block crawler-unfriendly paths if any
+Disallow: /uploads/
+Disallow: /admin/
+Disallow: /tmp/
+
+# Allow all major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: YandexBot
+Allow: /
