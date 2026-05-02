@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.yorukgoldlojistik.com/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.yorukgoldlojistik.com/images/logo.jpeg</image:loc>
+      <image:title>Yörük Gold Lojistik</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.yorukgoldlojistik.com/hakkimizda.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.yorukgoldlojistik.com/images/logo.jpeg</image:loc>
+      <image:title>Yörük Gold Lojistik</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.yorukgoldlojistik.com/hizmetler.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.yorukgoldlojistik.com/images/logo.jpeg</image:loc>
+      <image:title>Yörük Gold Lojistik</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.yorukgoldlojistik.com/filomuz.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.yorukgoldlojistik.com/images/logo.jpeg</image:loc>
+      <image:title>Yörük Gold Lojistik</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.yorukgoldlojistik.com/blog.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.yorukgoldlojistik.com/images/logo.jpeg</image:loc>
+      <image:title>Yörük Gold Lojistik</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.yorukgoldlojistik.com/blog-detay.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://www.yorukgoldlojistik.com/images/logo.jpeg</image:loc>
+      <image:title>Yörük Gold Lojistik</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.yorukgoldlojistik.com/iletisim.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.yorukgoldlojistik.com/images/logo.jpeg</image:loc>
+      <image:title>Yörük Gold Lojistik</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.yorukgoldlojistik.com/kvkk.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <image:image>
+      <image:loc>https://www.yorukgoldlojistik.com/images/logo.jpeg</image:loc>
+      <image:title>Yörük Gold Lojistik</image:title>
+    </image:image>
+  </url>
+</urlset>

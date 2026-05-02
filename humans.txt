@@ -1,0 +1,11 @@
+/* TEAM */
+Company: Yörük Gold Lojistik
+Contact: info@yorukgoldlojistik.com
+Phone: +90 532 067 45 98
+Location: Onikişubat, Kahramanmaraş, Türkiye
+
+/* SITE */
+Last update: 2026/05/02
+Language: Türkçe
+Standards: HTML5, CSS3, JavaScript
+Components: Vanilla JS, Font Awesome, Google Fonts
